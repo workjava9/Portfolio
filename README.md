@@ -1,31 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
-=============================================================================================================================
+# 👨‍💻 Павел (workjava9) — Java Developer
 
-Java-backend
-------------
+![header](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 
-Java Developer опытом разработки web-приложений на микросервисной архитектуре. Опыт работы с такими технологиями как; Java EE, Spring Boot., Hibernate ORM, Redis, Kafka, PostgreSQL, Docker, JUnit5/Mockito, Gradle/Maven, Git-repositories, CI/CD
+---
 
-* 🌍  I'm based in RU
+## О себе
 
-### Skills
+Привет! Меня зовут Павел, я Java-разработчик, увлечённый созданием надёжных и масштабируемых приложений.  
+Пишу микросервисную архитектуру и современные технологии backend.
 
+> _«Код — это мой язык, а проекты — мой мир»._
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+-  Люблю писать чистый, тестируемый и хорошо документированный код
+-  Постоянно учусь и развиваюсь — читаю книги, прохожу курсы и делаю pet-проекты
+-  Открыт к сотрудничеству и новым вызовам
+-  Готов работать удалённо и в команде
 
+---
 
-### Socials
+##  Моя статистика
 
-<p align="left"> <a href="https://www.github.com/workjava9" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=workjava9&show_icons=true&theme=radical&locale=ru)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workjava9&layout=compact&theme=radical&locale=ru)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=D3mka&theme=radical)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+##  Навыки и технологии
 
-<a href="http://www.github.com/workjava9"><img src="https://github-readme-stats.vercel.app/api?username=workjava9&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="workjava9's GitHub stats" /></a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-<a href="http://www.github.com/workjava9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=workjava9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-45C8DF?style=for-the-badge&logo=mockito&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://github.com/workjava9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workjava9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+##  Проекты
+
+###  [Search Engine](https://github.com/workjava9/Search_Engine.git)
+Индексация страниц и быстрый поиск по ним.  
+_Технологии:_ Java, Spring Boot, Hibernate, Jsoup, PostgreSQL, многопоточность.
+
+###  [Hotel Reservations](https://github.com/workjava9/example-hotel-reservations.git)
+Бронирование номеров с регистрацией и панелью админа.  
+_Технологии:_ Java, Spring Boot, Spring Security, PostgreSQL, REST API.
+
+###  [Post News](https://github.com/workjava9/post-news.git)
+Приложение для публикации и редактирования новостей.  
+_Технологии:_ Java, Spring Boot, Thymeleaf, PostgreSQL, MVC.
+
+---
+
+##  Связь со мной
+
+| Телеграм  | Email                                                  | GitHub                   |
+|-----------|--------------------------------------------------------|--------------------------|
+| [@javac168](https://t.me/javac168) | [pasakirpicev6377@yandex.ru](mailto:email@example.com) | [github.com/workjava9](https://github.com/workjava9) |
+
+---
+
+##  Спасибо за просмотр!
+
+![footer](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
