@@ -52,7 +52,7 @@ _Технологии:_ Java, Spring Boot, Hibernate, Jsoup, PostgreSQL, мно�
 
 ###  [Hotel Reservations](https://github.com/workjava9/example-hotel-reservations.git)
 Бронирование номеров с регистрацией и панелью админа.  
-_Технологии:_ Java, Spring Boot, Spring Security, PostgreSQL, REST API.
+_Технологии:_ Java, Spring Boot, Spring Security, PostgreSQL, REST API, Kafka.
 
 ###  [Post News](https://github.com/workjava9/post-news.git)
 Приложение для публикации и редактирования новостей.  
