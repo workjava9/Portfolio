@@ -48,7 +48,7 @@
 
 ###  [Search Engine](https://github.com/workjava9/Search_Engine.git)
 Индексация страниц и быстрый поиск по ним.  
-_Технологии:_ Java, Spring Boot, Hibernate, Jsoup, PostgreSQL, многопоточность.
+_Технологии:_ Java, Spring Boot, Hibernate, Jsoup, MySQL, многопоточность.
 
 ###  [Hotel Reservations](https://github.com/workjava9/example-hotel-reservations.git)
 Бронирование номеров с регистрацией и панелью админа.  
