@@ -22,8 +22,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=workjava9&show_icons=true&theme=radical&locale=ru)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workjava9&layout=compact&theme=radical&locale=ru)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=D3mka&theme=radical)
- 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D3mka&theme=radical&range=last_7_days)
 
 
  <!--START_SECTION:waka-->
