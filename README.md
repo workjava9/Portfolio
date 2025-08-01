@@ -51,6 +51,14 @@
 
 ##  Проекты
 
+###  [Eventpulse](https://github.com/workjava9/eventpulse.git)
+Enterprise-уровня pet-проект для сбора, хранения и аналитики пользовательских событий в реальном времени.
+_Технологии_: Spring Boot, Kafka, Redis, PostgreSQL, Spring Security + JWT.
+
+###  [Sber Notify](https://github.com/workjava9/sber-notify.git)
+Pаспределённая система обработки и доставки уведомлений (Email, SMS, Push).
+_Технологии_: Spring Boot, Spring Kafka, JUnit 5, Spring Boot Actuator.
+
 ###  [Search Engine](https://github.com/workjava9/Search_Engine.git)
 Индексация страниц и быстрый поиск по ним.  
 _Технологии:_ Java, Spring Boot, Hibernate, Jsoup, MySQL, многопоточность.
