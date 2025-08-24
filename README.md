@@ -20,15 +20,12 @@
 ---
 
 ##  Моя статистика
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=workjava9&layout=compact&theme=dark)
 
+- ⭐ GitHub Stars: 1  
+- 🔄 Commits (2025): 90+  
+- 📦 Основные технологии: Java, Spring Boot, Kafka, PostgreSQL, Docker, GitHub Actions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workjava9&layout=compact&theme=radical&locale=ru)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D3mka&theme=radical&range=last_7_days)
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen)
-![Kafka](https://img.shields.io/badge/Kafka-event--driven-blue)
-![Docker](https://img.shields.io/badge/Docker-ready-blue)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-success)
 
 
 
