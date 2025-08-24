@@ -73,9 +73,9 @@ _Технологии:_ Java, Spring Boot, Spring Security, PostgreSQL, REST API
 
 ### [Kafka Lab](https://github.com/workjava9/kafka-lab)
 Учебный проект для демонстрации работы Kafka:
-- User Events Producer** (REST → Kafka topic `user.events`)
-- Analytics Consumer** (@KafkaListener, Micrometer + Prometheus)
-- Docker Compose (Kafka + UI) для локального запуска
+User Events Producer (REST → Kafka topic `user.events`)
+Analytics Consumer (@KafkaListener, Micrometer + Prometheus)
+Docker Compose (Kafka + UI) для локального запуска
 _Технологии:_ Java 17, Spring Boot, Spring Kafka, Micrometer, Docker Compose.
 
 ###  [Post News](https://github.com/workjava9/post-news.git)
