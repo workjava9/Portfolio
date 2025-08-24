@@ -14,6 +14,7 @@
 -  Люблю писать чистый, тестируемый и хорошо документированный код
 -  Постоянно учусь и развиваюсь — читаю книги, прохожу курсы и делаю pet-проекты
 -  Открыт к сотрудничеству и новым вызовам
+-  Интересуюсь **финтехом и банковскими системами**: очереди сообщений, надёжная доставка, масштабирование  
 -  Готов работать удалённо и в команде
 
 ---
@@ -66,6 +67,13 @@ _Технологии:_ Java, Spring Boot, Hibernate, Jsoup, MySQL, многоп
 ###  [Hotel Reservations](https://github.com/workjava9/example-hotel-reservations.git)
 Бронирование номеров с регистрацией и панелью админа.  
 _Технологии:_ Java, Spring Boot, Spring Security, PostgreSQL, REST API, Kafka.
+
+### [Kafka Lab](https://github.com/workjava9/kafka-lab)
+Учебный проект для демонстрации работы Kafka:
+- **User Events Producer** (REST → Kafka topic `user.events`)
+- **Analytics Consumer** (@KafkaListener, Micrometer + Prometheus)
+- Docker Compose (Kafka + UI) для локального запуска
+_Технологии:_ Java 17, Spring Boot, Spring Kafka, Micrometer, Docker Compose.
 
 ###  [Post News](https://github.com/workjava9/post-news.git)
 Приложение для публикации и редактирования новостей.  
