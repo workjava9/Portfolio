@@ -20,7 +20,7 @@
 ---
 
 ##  Моя статистика
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=workjava9&layout=compact&theme=dark)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D3mka&layout=compact&theme=dark)
 
 - ⭐ GitHub Stars: 1  
 - 🔄 Commits (2025): 90+  
